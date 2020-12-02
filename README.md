@@ -1,5 +1,9 @@
 # adventofcodeanswers
-These are my answers for advent of code. I'll add explanations sometimes later!
+These are some answers in different languages for advent of code.
 
 - Java: Made by PositivesBanane
 - Python: Made by Ari24-cb24
+
+
+# Todo
+- Explanations
