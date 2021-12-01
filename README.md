@@ -1,4 +1,4 @@
-# adventofcodeanswers
+# Advent of Code Answers
 These are some answers in different languages for advent of code.
 
 - Java: Made by [Txbias](https://github.com/Txbias "Profile")
@@ -13,6 +13,7 @@ These are some answers in different languages for advent of code.
 
 2021
 - Python: Day 1-1 
-	
-## Todo
-- Explanations
+
+## Contributing
+
+If you want to add another solution, fork this repo and create a pull request!
