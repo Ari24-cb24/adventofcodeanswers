@@ -1,0 +1,1 @@
+f=open("input.txt");n=f.readlines();f.close();n=[*map(int,n)];print(sum(map(lambda c:int(c[1])>int(c[0]),zip(map(sum,[*zip(n,n[1:],n[2:])]),map(sum,[*zip(n,n[1:],n[2:])][1:])))))
