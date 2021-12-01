@@ -7,9 +7,12 @@ These are some answers in different languages for advent of code.
 
 ## Coverage
 2020
-- Go: Tag 1-6
-- Java: Tag 1-20
-- Python: Tag 1-2
+- Go: Day 1-6
+- Java: Day 1-20
+- Python: Day 1-2
+
+2021
+- Python: Day 1-1 
 	
 ## Todo
 - Explanations
