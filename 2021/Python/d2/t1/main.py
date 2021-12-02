@@ -1,0 +1,2 @@
+f=open("input.txt");n=f.readlines();f.close()
+print(sum(int(l.split()[1])*(1 if l.split()[0]=="down"else-1)for l in n if l.split()[0]in("up","down"))*sum(int(l.split()[1])for l in n if l.split()[0]=="forward"))
