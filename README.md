@@ -12,7 +12,7 @@ These are some answers in different languages for advent of code.
 - Python: Day 1-2
 
 2021
-- Python: Day 1-1
+- Python: Day 1-3
 - Kotlin: Day 2
 
 ## Contributing

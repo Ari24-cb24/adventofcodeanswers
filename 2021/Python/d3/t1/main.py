@@ -1,0 +1,2 @@
+f=open("input.txt");n=f.readlines();f.close()
+print(int("".join(str(int([*zip(*n)][idx].count('1')>[*zip(*n)][idx].count('0')))for idx in range(len([*zip(*n)]))),2)*int("".join(str(int([*zip(*n)][idx].count('0')>[*zip(*n)][idx].count('1')))for idx in range(len([*zip(*n)]))),2))
